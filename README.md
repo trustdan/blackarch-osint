@@ -1,6 +1,8 @@
 # Blackarch OSINT
 A quick cheatsheet for OSINT and social tools available on Blackarch.
 
+Find tools here: https://www.blackarch.org/tools.html
+
 Here are some go-to tools when you want to discover social accounts from a name or an email:
 
     Sherlock
