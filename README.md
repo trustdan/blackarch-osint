@@ -1,5 +1,45 @@
-# blackarch-osint
-A quick cheatsheet for OSINT and social tools available on Blackarch
+# Blackarch OSINT
+A quick cheatsheet for OSINT and social tools available on Blackarch.
+
+Here are some go-to tools when you want to discover social accounts from a name or an email:
+
+    Sherlock
+        Focus: Username-based searching.
+        Why it’s useful: Quickly checks hundreds of social media platforms to see if a specific username is taken.
+
+    Maigret
+        Focus: Username-based searching (similar to Sherlock).
+        Why it’s useful: Supports a large list of websites—sometimes more than Sherlock—and is actively maintained.
+
+    WhatsMyName
+        Focus: Username enumeration.
+        Why it’s useful: Maintained by the OSINT community; covers a very wide range of sites.
+
+    socialscan
+        Focus: Checks both email and username availability on popular platforms.
+        Why it’s useful: If you only have an email, it can show you whether that email is registered on various social sites.
+
+    holehe
+        Focus: Email-based account discovery.
+        Why it’s useful: Given an email address, it attempts logins or password resets on different websites to see if the account exists.
+
+    userrecon / userrecon-py / nexfil
+        Focus: Username enumeration across many social networks.
+        Why they’re useful: All are quick ways to see if a chosen username is in use across multiple sites.
+
+    socialpwned
+        Focus: Email-based search on social networks.
+        Why it’s useful: Finds emails that have been published on social media—helpful if you already have the target’s email.
+
+Quick Tips
+
+    Start with an email: Tools like holehe or socialscan can tell you if that email is registered on major sites (Twitter, Instagram, etc.).
+    Move to username: Once you get a probable username, Sherlock, Maigret, or WhatsMyName can track it across many platforms.
+    Check social media: If you know they have a strong presence on Twitter or Instagram, you can also use Twint (for Twitter) or Osintgram (for Instagram) to dig deeper.
+
+This workflow often gives you solid leads on someone’s Twitter, Instagram, GitHub, or other platforms. If the person uses the same handle consistently, these tools will help unearth them quickly.
+
+
 
 | Name               | Version                 | Category              | Tier                            | Focus     | Description                                                                                                                                                       |
 |--------------------|-------------------------|-----------------------|---------------------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
