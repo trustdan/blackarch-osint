@@ -33,11 +33,11 @@ Here are some go-to tools when you want to discover social accounts from a name 
         Focus: Email-based search on social networks.
         Why it’s useful: Finds emails that have been published on social media—helpful if you already have the target’s email.
 
-Quick Tips
+Quick Tips:
 
-    Start with an email: Tools like holehe or socialscan can tell you if that email is registered on major sites (Twitter, Instagram, etc.).
-    Move to username: Once you get a probable username, Sherlock, Maigret, or WhatsMyName can track it across many platforms.
-    Check social media: If you know they have a strong presence on Twitter or Instagram, you can also use Twint (for Twitter) or Osintgram (for Instagram) to dig deeper.
+Start with an email: Tools like holehe or socialscan can tell you if that email is registered on major sites (Twitter, Instagram, etc.).
+Move to username: Once you get a probable username, Sherlock, Maigret, or WhatsMyName can track it across many platforms.
+Check social media: If you know they have a strong presence on Twitter or Instagram, you can also use Twint (for Twitter) or Osintgram (for Instagram) to dig deeper.
 
 This workflow often gives you solid leads on someone’s Twitter, Instagram, GitHub, or other platforms. If the person uses the same handle consistently, these tools will help unearth them quickly.
 
